@@ -22,9 +22,9 @@ export class FetchData extends Component {
             <th>Date</th>
             <th>Temp. (C)</th>
                     <th>Temp. (F)</th>
-                    <th>Temp. (F)</th>
+                    <th>Temp. (F)2</th>
 
-            <th>Summary</th>
+                    <th>Summary</th>
           </tr>
         </thead>
         <tbody>
